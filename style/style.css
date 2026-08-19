@@ -9,3 +9,10 @@
   font-family: "yekan";
   src: url("../assets/fonts/Yekan.ttf") format("truetype");
 }
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
