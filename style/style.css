@@ -1,0 +1,11 @@
+/* add fonts */
+
+@font-face {
+  font-family: "laleZar";
+  src: url("../assets/fonts/Lalezar.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "yekan";
+  src: url("../assets/fonts/Yekan.ttf") format("truetype");
+}
