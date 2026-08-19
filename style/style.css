@@ -16,3 +16,36 @@
   margin: 0;
   list-style-type: none;
 }
+
+body {
+  font-family: "yekan";
+  background: #141313;
+  color: rgb(235, 234, 234);
+}
+.container {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+.header {
+  background: orange;
+}
+
+.header nav {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-family: "laleZar";
+  padding: 10px 0px;
+}
+
+.hero-img {
+  background-color: #141313;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0 10px;
+}
+
+.hero-img img {
+  width: 100%;
+}
